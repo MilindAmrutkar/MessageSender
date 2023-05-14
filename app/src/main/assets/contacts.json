@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "Milind",
+    "lastName": "Amrutkar",
+    "phoneNumber": "+1234567890"
+  },
+  {
+    "firstName": "Umesh",
+    "lastName": "Amrutkar",
+    "phoneNumber": "+0987654321"
+  },
+  {
+    "firstName": "Rahul",
+    "lastName": "Amrutkar",
+    "phoneNumber": "+1234567890"
+  },
+  {
+    "firstName": "Ganesh",
+    "lastName": "Amrutkar",
+    "phoneNumber": "+0987654321"
+  }
+]
